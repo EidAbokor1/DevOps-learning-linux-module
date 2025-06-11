@@ -25,6 +25,15 @@ I completed the first 20 levels of the Bandit wargame, which provided practical 
 - Identifying and utilizing setuid binaries for privilege escalation  
 - Combining all these skills to solve progressively complex challenges
 
+## SAD Server Challenges
+
+I’ve worked through some of the SAD Server scenarios, a Linux-based security challenge that involves investigating a compromised system and restoring its integrity. So far, I’ve completed the first three challenges:
+
+1. **"Saint John"** – Investigated what process was writing to a suspicious log file (Fix – No Registration) ✅  
+2. **"Saskatoon"** – Analyzed and counted IP addresses from logs to find malicious actors (Do) ✅  
+3. **"The Command Line Murders"** – Solved a mystery using only the command line (Do – No Registration) ✅  
+
+These challenges have further sharpened my skills in log analysis, forensic investigation, and bash scripting, simulating real-world DevOps and security troubleshooting scenarios.
 
 ---
 
